@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ]
+  ],
+  "legacy_uid": "7a47eb52-dcf3-4180-0e00-81318b9d97c5",
+  "instructors": {
+    "content": [
+      "3a860aa3-0530-94c1-9a2d-a7504d4b3101",
+      "3aeeec7d-0d6d-fbcb-1a1e-3816cd93b43a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "17f95e21-9b8f-1f6e-93f3-c0e903192b1d",
+    "website": "24-962-advanced-phonology-spring-2005"
+  },
+  "course_title": "Advanced Phonology",
+  "course_description": "This course focuses on phonological phenomena that are sensitive to morphological structure, including base-reduplicant identity, cyclicity, level ordering, derived environment effects, opaque rule interactions, and morpheme structure constraints. In the recent OT literature, it has been claimed that all of these phenomena can be analyzed with a single theoretical device: correspondence constraints, which regulate the similarity of lexically related forms (such as input and output, base and derivative, base and reduplicant).\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.962",
+  "course_image_thumbnail": {
+    "content": "fa0662a0-72ea-67be-3ed8-c709cf93dc04",
+    "website": "24-962-advanced-phonology-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "bed476f8-151e-4546-83ba-3661d275812d",
+  "site_short_id": "24.962-spring-2005",
+  "site_url_path": "courses/24-962-advanced-phonology-spring-2005",
+  "title": "Course Metadata"
+}
