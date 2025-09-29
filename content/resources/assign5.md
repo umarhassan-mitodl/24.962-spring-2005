@@ -5,6 +5,8 @@ description: Problems to compute the implications of a set of data for a model o
 file: /courses/24-962-advanced-phonology-spring-2005/8ad43d10f1ec92d9c276074b10473afe_assign5.pdf
 file_size: 81206
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

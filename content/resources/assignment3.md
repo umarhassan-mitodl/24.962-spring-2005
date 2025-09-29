@@ -4,6 +4,8 @@ description: Problems on final and non-final vowels in monomorphemic roots.
 file: /courses/24-962-advanced-phonology-spring-2005/c596d008bf44082d2036e8a9fba5025a_assignment3.pdf
 file_size: 61629
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,8 @@ content_type: page
 description: This section provides information on selected references, and readings
   assigned for the term.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

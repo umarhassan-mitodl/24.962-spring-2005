@@ -4,6 +4,8 @@ description: Contains solution to Korean coalescence.
 file: /courses/24-962-advanced-phonology-spring-2005/b30b2b004bff3c30c25c254c704dc670_solutions1.pdf
 file_size: 131231
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

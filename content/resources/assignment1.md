@@ -4,6 +4,8 @@ description: Problems on correspondence theory.
 file: /courses/24-962-advanced-phonology-spring-2005/d72a94a92569461d8071c39a1af44862_assignment1.pdf
 file_size: 36069
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
