@@ -4,8 +4,6 @@ description: Problems on OT analysis.
 file: /courses/24-962-advanced-phonology-spring-2005/8d26539ac072a2d014941c070a81f2b1_assignment8.pdf
 file_size: 79682
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

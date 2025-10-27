@@ -4,8 +4,6 @@ description: A list of glottalized consonant, and palatal glide.
 file: /courses/24-962-advanced-phonology-spring-2005/1f0dfe63ffce0c6cf65376bce13ef0eb_assignment9_data.pdf
 file_size: 65585
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

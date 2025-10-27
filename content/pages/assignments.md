@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on assigned readings along with solutions
   and data sets for some of these.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

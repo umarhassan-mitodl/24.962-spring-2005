@@ -24,7 +24,6 @@
     "website": "24-962-advanced-phonology-spring-2005"
   },
   "course_title": "Advanced Phonology",
-  "hide_download": true,
   "course_description": "This course focuses on phonological phenomena that are sensitive to morphological structure, including base-reduplicant identity, cyclicity, level ordering, derived environment effects, opaque rule interactions, and morpheme structure constraints. In the recent OT literature, it has been claimed that all of these phenomena can be analyzed with a single theoretical device: correspondence constraints, which regulate the similarity of lexically related forms (such as input and output, base and derivative, base and reduplicant).\n",
   "department_numbers": [
     "24"
@@ -35,7 +34,6 @@
     "content": "fa0662a0-72ea-67be-3ed8-c709cf93dc04",
     "website": "24-962-advanced-phonology-spring-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"
